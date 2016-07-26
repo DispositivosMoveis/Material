@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\helderadm2\StudioProjects\PDM11CadastraPessoaArquivos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\helderadm2\StudioProjects\PDM11CadastraPessoaArquivos\app\build\intermediates\pre-dexed\debug\classes-a58b398e20e4e00c4c53f2fed141de7c03628a68.jar" />
+    </item>
+    <item
+        jar="C:\Users\helderadm2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\helderadm2\StudioProjects\PDM11CadastraPessoaArquivos\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-8c2cdcf50fbf56cf3bb4a05dc330fe694aa1120d.jar" />
+    </item>
+    <item
+        jar="C:\Users\helderadm2\StudioProjects\PDM11CadastraPessoaArquivos\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\helderadm2\StudioProjects\PDM11CadastraPessoaArquivos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-df3ed0b5dc88ba247c649a2cc9e94a68a31386f7.jar" />
+    </item>
+
+</items>

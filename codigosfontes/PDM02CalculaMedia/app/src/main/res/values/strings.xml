@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculaMedia</string>
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nota1">Nota 1</string>
+    <string name="nota2">Nota 2</string>
+    <string name="calcular">Calcular</string>
+    <string name="media">Media</string>
+    <string name="nota_final">Nota Final</string>
+
+</resources>

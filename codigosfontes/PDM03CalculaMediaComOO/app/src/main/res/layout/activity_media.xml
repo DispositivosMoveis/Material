@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="wrap_content"
+ android:layout_height="fill_parent"
+ android:orientation="vertical"
+ tools:context=".MediaActivity" >
+ 
+<TextView
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:layout_marginTop="10dp"
+ android:text="@string/nota1" />
+ 
+<EditText
+ android:id="@+id/txtNota1"
+ android:layout_width="110dp"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:inputType="number" />
+ 
+<TextView
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:text="@string/nota2" />
+ 
+<EditText
+ android:id="@+id/txtNota2"
+ android:layout_width="110dp"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:inputType="number" />
+ 
+
+<Button
+ android:id="@+id/btnCalcular"
+ android:layout_width="wrap_content"
+ android:layout_height="35dp"
+ android:layout_marginLeft="15dp"
+ android:layout_marginTop="10dp"
+ android:text="@string/calcular"
+ android:textSize="15sp" />
+ 
+<TextView
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:layout_marginTop="25dp"
+ android:text="@string/aluno" />
+ 
+<TextView
+ android:id="@+id/txtMediaFinal"
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:layout_marginTop="25dp"
+ android:text="@string/nota_final" />
+ 
+</LinearLayout>
+

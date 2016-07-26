@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="wrap_content"
+ android:layout_height="fill_parent"
+ android:orientation="vertical"
+ tools:context=".CadastrarPessoasActivity" >
+ 
+<TextView
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:layout_marginTop="10dp"
+ android:text="@string/nome" />
+ 
+<EditText
+ android:id="@+id/editTextNome"
+ android:layout_width="110dp"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:inputType="text" />
+ 
+<TextView
+ android:layout_width="wrap_content"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:text="@string/idade" />
+ 
+<EditText
+ android:id="@+id/editTextIdade"
+ android:layout_width="110dp"
+ android:layout_height="wrap_content"
+ android:layout_marginLeft="15dp"
+ android:inputType="number" />
+ 
+
+<Button
+ android:id="@+id/btnCadastrar"
+ android:layout_width="wrap_content"
+ android:layout_height="35dp"
+ android:layout_marginLeft="15dp"
+ android:layout_marginTop="10dp"
+ android:text="@string/botaocadastrar"
+ android:textSize="15sp" />
+ 
+<Button
+ android:id="@+id/btnCancelar"
+ android:layout_width="wrap_content"
+ android:layout_height="35dp"
+ android:layout_marginLeft="15dp"
+ android:layout_marginTop="10dp"
+ android:text="@string/botaocancelar"
+ android:textSize="15sp" />
+ 
+
+
+</LinearLayout>
+
